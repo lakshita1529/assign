@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/assign/static/css/main.0b8c6af3.css",
+    "main.js": "/assign/static/js/main.ec64b4d6.js",
+    "static/media/mouse.jpg": "/assign/static/media/mouse.dc9f10df764e232c731d.jpg",
+    "static/media/banner.png": "/assign/static/media/banner.9adae0b04983edb7b752.png",
+    "static/media/card.jpeg": "/assign/static/media/card.25727178f16ec823d801.jpeg",
+    "static/media/Check.png": "/assign/static/media/Check.0cd5ef83be4897dc8657.png",
+    "static/media/packing.jpg": "/assign/static/media/packing.442ef5953b9c4a30787e.jpg",
+    "static/media/Contact.png": "/assign/static/media/Contact.69e778412e55a71639bf.png",
+    "static/media/visa.jpg": "/assign/static/media/visa.583f4d78016123cd4e1f.jpg",
+    "static/media/Blue.jpg": "/assign/static/media/Blue.a14741d0071034232a09.jpg",
+    "static/media/time.jpg": "/assign/static/media/time.4d7651b3f5526cc076ec.jpg",
+    "static/media/Growth.jpg": "/assign/static/media/Growth.7e921001eddd7673dbce.jpg",
+    "static/media/Developer.jpg": "/assign/static/media/Developer.f6e73c4517115760b4e6.jpg",
+    "static/media/Money.jpg": "/assign/static/media/Money.845060708b579b08fafb.jpg",
+    "static/media/bar.jpg": "/assign/static/media/bar.083e398e1efdf66d18b7.jpg",
+    "static/media/logo.webp": "/assign/static/media/logo.79d923212c0e59f6a87f.webp",
+    "index.html": "/assign/index.html",
+    "main.0b8c6af3.css.map": "/assign/static/css/main.0b8c6af3.css.map",
+    "main.ec64b4d6.js.map": "/assign/static/js/main.ec64b4d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8c6af3.css",
+    "static/js/main.ec64b4d6.js"
+  ]
+}
